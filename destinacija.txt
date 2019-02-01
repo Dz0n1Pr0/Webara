@@ -1,0 +1,4 @@
+Tokyo;JAP;Neki;NKI;Tokyo,Japan;tokyo.jpg;aktivna
+Majami;USA;Aros;AR;Maiami,USA;majami.jpeg;aktivna
+Beograd;Srbija;Tesla;TSL;Belgrade,Serbia;beograd.jpg;aktivna
+Moskva;Rusia;Putin;PUT;Moskva,Russia;moskva.jpg;aktivna

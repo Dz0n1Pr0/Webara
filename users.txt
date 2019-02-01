@@ -1,0 +1,3 @@
+a;a;a;a;a;a;user1.png;normalno;user
+b;b;b;b;b;b;admin1.jpg;normalno;admin
+c;c;c;c;c;c;user1.png;blokirano;user
